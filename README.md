@@ -20,6 +20,8 @@
 [<img src="https://img.icons8.com/nolan/64/instagram-new.png"/>](https://www.instagram.com/___im.kiran/)
 
 
+<!--
 #### Profile Visits
 
 ![Visitor Count](https://profile-counter.glitch.me/kr017/count.svg)
+-->
